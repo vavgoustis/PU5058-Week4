@@ -1,0 +1,28 @@
+---
+title: "Rmd_Practical"
+author: "me"
+date: "November 6, 2023"
+---
+
+# 💻 Practical: R markdown
+
+This file contains two functions in R that will calculate the days until my PU5058 report is due:
+
+1.  The first function will get and return the current data from the local system.
+
+2.  The second function will calculate the difference, in days, between today's date and the due date of the PU5058 report.
+
+## Function 1: Get the Current Date
+
+
+## Function 2: Days until PU5058 Report Due
+
+## Checklist
+
+-   Section headers **✔**
+
+-   1 Unordered list (checklist) **✔**
+
+-   1 Numbered list (function list) **✔**
+
+-   Two Code Chunks **✔**
