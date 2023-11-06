@@ -35,7 +35,6 @@ By modifying this file, I am completing step 5 of the Week 2 practice assignment
 - [x] 4. Download the file "R_Rstudio_Rmarkdown.Rmd" from the week 4 "Practical: R markdown" section on MyAberdeen and save it in your project
 - [x] 5. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
 - [ ] ~6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know~
-- [ ] 7. Comment on this issue with a link to your new repository
 
 #### Part 2 - Output Folder: 02-R Markdown Practical
 - [x] Download, read through and knit the attached R markdown file (R_Rstudio_Rmarkdown.Rmd) to pdf. This is to ensure you are able to output pdfs, which you will need to submit your final report.
@@ -43,6 +42,9 @@ By modifying this file, I am completing step 5 of the Week 2 practice assignment
 - [ ] Create at least two code chunks in between your text. (It can be any text and any code, it doesn't need to be meaningful.)
 - [ ] In your text, add section headers, and at least one numbered list and one unordered list.
 - [ ] Remember to tick off each item on the course repository issue as you complete them!
+
+### Part 3
+- [ ] Comment on this issue with a link to your new repository
 
 <!---
 Week 5: Practical: reading data in R
