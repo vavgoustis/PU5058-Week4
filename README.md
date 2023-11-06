@@ -58,7 +58,7 @@ Week 5: Practical: reading data in R
 
 Week 6-10: Your project
 Now that you have become familiar with GitHub, you can start using it to prepare your report, and get help and feedback from your group members.
-- [ ] Comment on this issue with a link to your report repository
+- [x] Comment on this issue with a link to your report repository
 --->
 
 
