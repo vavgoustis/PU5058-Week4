@@ -32,7 +32,7 @@ Week 4: Rmarkdown
 - [x] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
 - [x] 4. Download the file "R_Rstudio_Rmarkdown.Rmd" from the week 4 "Practical: R markdown" section on MyAberdeen and save it in your project
 - [x] 5. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
-- [-] 6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know
+[-] 6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know
 - [ ] 7. Comment on this issue with a link to your new repository
 
 <!---
