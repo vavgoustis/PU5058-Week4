@@ -43,7 +43,7 @@ By modifying this file, I am completing step 5 of the Week 2 practice assignment
 - [x] In your text, add section headers, and at least one numbered list and one unordered list.
 - [x] Remember to tick off each item on the course repository issue as you complete them!
 ### Part 3
-- [ ] Comment on this issue with a link to your new repository
+- [x] Comment on this issue with a link to your new repository
 
 <!---
 Week 5: Practical: reading data in R
