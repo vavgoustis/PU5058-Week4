@@ -2,11 +2,12 @@
 title: "Days Until Report Due"
 author: "me"
 date: "November 6, 2023"
+output: pdf_document
 ---
 
 # Days Until Report Due
 
-This file contains three code chunks in R that will determine the number of days until my PU5058 report is due 😬👻:
+This file contains three code chunks in R that will determine the number of days until my PU5058 report is due:
 
 1.  The first code chunk will get and return the current date from the local system.
 
@@ -76,10 +77,10 @@ Functions:
 
 ## Checklist
 
--   Section headers **✔**
+-   [x] Section headers
 
--   1 Unordered list (checklist) **✔**
+-   [x] 1 Unordered list (checklist)
 
--   1 Numbered list **✔**
+-   [x] 1 Numbered list (more than 1)
 
--   Two Code Chunks **✔**
+-   [x] Two Code Chunks (more than 2)
