@@ -1,24 +1,78 @@
 ---
-title: "Rmd_Practical"
+title: "Days Until Report Due"
 author: "me"
 date: "November 6, 2023"
 ---
 
-# 💻 Practical: R markdown
+# Days Until Report Due
 
-This file contains two functions in R that will calculate the days until my PU5058 report is due:
+This file contains three code chunks in R that will determine the number of days until my PU5058 report is due 😬👻:
 
-1.  The first function will get and return the current data from the local system.
+1.  The first code chunk will get and return the current date from the local system.
 
-2.  The second function will calculate the difference, in days, between today's date and the due date of the PU5058 report.
+2.  The second code chunk will set and return the date that the PU5058 report is due.
 
-## Function 1: Get the Current Date
+3.  The third code chunk will calculate the difference, in days, between today's date and the due date of the PU5058 report.
 
+## Create the variable "today" and assign it to today's date.
 
+```{r}
+today <- Sys.Date()
+print(today)
+```
 
-## Function 2: Days until PU5058 Report Due
+Variables:
 
+-   today
 
+Functions:
+
+1.  Sys.Date() function to get the current date according to the local system
+
+2.  print() function used to print results
+
+## Create variable "reportDate" and set it to November 21, 2023
+
+```{r}
+  reportDate <- "2023-11-21"
+  print(reportDate)
+```
+
+Variables:
+
+-   reportDate
+
+Functions:
+
+1.  print() function used to print results
+
+## Calculate Days until PU5058 Report Due
+
+```{r}
+diff_dates = difftime(as.Date(reportDate), as.Date(today), units = "days") 
+
+diff_dates = as.numeric(diff_dates)
+
+print(paste(diff_dates," days until PU5058 report is due!!"))
+```
+
+Variables:
+
+-   reportDate (from code chunk 2)
+
+-   today (from code chunk 1)
+
+Functions:
+
+1.  as.Date() function used to format dates
+
+2.  difftime() function used to calculate date differences
+
+3.  as.numeric() function used to extract only the numerical value of the difftime function output
+
+4.  print() function used to print the message containing number of days left until the report is due
+
+5.  paste() function used to concatenate the numerical value obtained in the difftime function and the desired text of my output message.
 
 ## Checklist
 
@@ -26,6 +80,6 @@ This file contains two functions in R that will calculate the days until my PU50
 
 -   1 Unordered list (checklist) **✔**
 
--   1 Numbered list (function list) **✔**
+-   1 Numbered list **✔**
 
 -   Two Code Chunks **✔**
