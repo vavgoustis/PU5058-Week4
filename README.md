@@ -27,6 +27,8 @@ By modifying this file, I am completing step 5 of the Week 2 practice assignment
 --->
 
 Week 4: Rmarkdown
+
+Part 1 - Output Folder: 01-R Mardown to PDF Exercise
 - [x] 1. Create a new public repository on GitHub Desktop and add a readme file.
 - [x] 2. Publish the repository to GitHub
 - [x] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
@@ -34,6 +36,13 @@ Week 4: Rmarkdown
 - [x] 5. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
 - [ ] ~6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know~
 - [x] 7. Comment on this issue with a link to your new repository
+
+Part 2 - Output Folder: 02-R Markdown Practical
+- [ ] Download, read through and knit the attached R markdown file (R_Rstudio_Rmarkdown.Rmd) to pdf. This is to ensure you are able to output pdfs, which you will need to submit your final report.
+- [ ] Create a new R markdown file.
+- [ ] Create at least two code chunks in between your text. (It can be any text and any code, it doesn't need to be meaningful.)
+- [ ] In your text, add section headers, and at least one numbered list and one unordered list.
+- [ ] Remember to tick off each item on the course repository issue as you complete them!
 
 <!---
 Week 5: Practical: reading data in R
