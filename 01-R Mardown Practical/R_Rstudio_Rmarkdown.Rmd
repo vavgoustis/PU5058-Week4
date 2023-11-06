@@ -18,7 +18,7 @@ This is just an example Rmarkdown document, with a short explanation of the R St
 
 **Top left**: "Source" window. This is where you type your text and code and save it as an R markdown file (like this one), so you can run it as many times as you like.
 
-**Top right**: "Environment" window. This shows you the list of all data you have currently available.
+**Top right**: "Environment" window. This shows you the list of all the data you have currently available.
 
 **Bottom right**: This is where your plots will be displayed. Under the "packages" tab it shows the packagers currently installed and loaded (more on that next week). The "Help" tab is also quite handy!
 
