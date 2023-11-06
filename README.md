@@ -25,19 +25,19 @@ By modifying this file, I am completing step 5 of the Week 2 practice assignment
 	- [x] 5. Modify the new file (or the Readme file), commit the change, and push it to the remote repository on GitHub
 	- [x] 6. Comment on this issue with a link to your repository
 --->
-
-### Week 4: Rmarkdown
-
-##### Part 1 - Output Folder: 01-R Mardown to PDF Exercise
+---
+## Week 4: Rmarkdown
+---
+#### Part 1 - Output Folder: 01-R Mardown to PDF Exercise
 - [x] 1. Create a new public repository on GitHub Desktop and add a readme file.
 - [x] 2. Publish the repository to GitHub
 - [x] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
 - [x] 4. Download the file "R_Rstudio_Rmarkdown.Rmd" from the week 4 "Practical: R markdown" section on MyAberdeen and save it in your project
 - [x] 5. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
 - [ ] ~6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know~
-- [x] 7. Comment on this issue with a link to your new repository
+- [ ] 7. Comment on this issue with a link to your new repository
 
-##### Part 2 - Output Folder: 02-R Markdown Practical
+#### Part 2 - Output Folder: 02-R Markdown Practical
 - [ ] Download, read through and knit the attached R markdown file (R_Rstudio_Rmarkdown.Rmd) to pdf. This is to ensure you are able to output pdfs, which you will need to submit your final report.
 - [ ] Create a new R markdown file.
 - [ ] Create at least two code chunks in between your text. (It can be any text and any code, it doesn't need to be meaningful.)
